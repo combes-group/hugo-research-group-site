@@ -15,23 +15,24 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: joshua.combes _at_ colorado.edu
+  #phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 425 UCB
+    city: Boulder
+    region: CO
+    postcode: '80309'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    latitude: '40.0068'
+    longitude: '105.2628'
+  office: ECOT 357
+  directions: Enter the building, turn left and take the evelvator to the third floor/
+  #office_hours:
+  #  - 'Monday 10:00 to 13:00'
+  #  - 'Wednesday 09:00 to 10:00'
+  #appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
@@ -42,13 +43,13 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
+  #form:
+  #  provider: netlify
+  #  formspree:
+  #    id:
+  #  netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  #    captcha: false
 
 design:
   columns: '1'
