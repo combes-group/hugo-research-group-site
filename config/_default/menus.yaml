@@ -16,12 +16,9 @@ main:
   - name: Events
     url: event
     weight: 40
-  - name: Publications
-    url: publication
-    weight: 50
   - name: Preprints
     url: preprints
-    weight: 54
+    weight: 50
   - name: Contact
     url: contact
     weight: 60
