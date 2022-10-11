@@ -39,11 +39,14 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
+     icon_pack: fas
+     link: 'mailto:josh.combes_AT_colorado.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/JoshKoomz
+  - icon: arxiv
+    icon_pack: ai
+    link: https://arxiv.org/a/combes_j_1
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=DE3uti8AAAAJ&hl=en
