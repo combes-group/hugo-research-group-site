@@ -17,9 +17,9 @@ organizations:
 bio: Josh Combes is a professor at the University of Colorado Boulder. His research interests span several aspects of theoretical quantum physics.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantum Measurement
+  - Proposing New Quantum Gates
+  - Open Quantum Systems
 
 education:
   courses:
