@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Josh Combes is a professor at the University of Colorado Boulder. His research interests span several aspects of theoretical quantum physics.
+bio: Josh Combes is a Professor at the University of Colorado Boulder. His research interests span several aspects of theoretical quantum physics.
 
 interests:
   - Quantum Measurement
@@ -23,15 +23,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Theoretical Physics
+      institution: Griffith University
+      year: 2010
+    - course: B.Eng. in Electronic Engineering
+      institution: Griffith University
+      year: 2003
+    - course: B.Sc. in Physics and Applied Math
+      institution: Griffith University
+      year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,6 +71,6 @@ user_groups:
   - Principal Investigators
 ---
 
-Josh Combes is a professor at the University of Colorado Boulder. His research interests span several aspects of theoretical quantum physics with an emphasis on quantum measurement, error correction, proposing new quantum gates, and open quantum systems.
+Josh Combes is a Professor at the University of Colorado Boulder. His research interests span several aspects of theoretical quantum physics with an emphasis on quantum measurement, error correction, proposing new quantum gates, and open quantum systems.
 
 In 2016 he was awarded the prestigious discovery early career researcher award (DECRA) from the Australian Research Council. Prior to that he has held postdoctoral fellowships at the Perimeter Institute for Theoretical physics and Institute for Quantum Computing, and was employed as a postdoctoral researcher with Carlton Caves at the University of New Mexico. At some point he did a stint in industry to work at a quantum computing hardware company on algorithms and device physics.
