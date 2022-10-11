@@ -71,6 +71,6 @@ user_groups:
   - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Josh Combes is a professor at the University of Colorado Boulder. His research interests span several aspects of theoretical quantum physics with an emphasis on quantum measurement, error correction, proposing new quantum gates, and open quantum systems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In 2016 he was awarded the prestigious discovery early career researcher award (DECRA) from the Australian Research Council. Prior to that he has held postdoctoral fellowships at the Perimeter Institute for Theoretical physics and Institute for Quantum Computing, and was employed as a postdoctoral researcher with Carlton Caves at the University of New Mexico. At some point he did a stint in industry to work at a quantum computing hardware company on algorithms and device physics.
