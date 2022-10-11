@@ -20,7 +20,7 @@ main:
     url: publication
     weight: 50
   - name: Preprints
-    url: preprint
+    url: preprints
     weight: 54
   - name: Contact
     url: contact
