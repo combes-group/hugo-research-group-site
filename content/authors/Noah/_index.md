@@ -26,8 +26,8 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: 3rd year PhD student in Physics
+      institution: University of Colorado Boulder
       year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
