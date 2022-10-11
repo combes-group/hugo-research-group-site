@@ -7,7 +7,7 @@
 // Customized by Willie WY Wong
 // Modified by Andrew Fowlie
 
-var authorID=["combes_j_1"]
+//var authorID=["combes_j_1"]
 var articleHtml = {};
 var n_authors = authorID.length;
 var n_processed = 0;

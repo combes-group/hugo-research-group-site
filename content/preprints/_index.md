@@ -9,7 +9,7 @@ subtitle:
 <script th:inline="javascript">
     var maxArticles=8;
     var showAbstract=0;
-    var authorID=["fowlie_a_1"];
+    var authorID=["combes_j_1","fowlie_a_1"];
     var showDates=1;
     var showLinkAll=1;
 </script>
