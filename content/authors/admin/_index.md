@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Josh Combes is a professor at the University of Colorado Boulder. His research interests span several aspects of theoretical quantum physics.
 
 interests:
   - Artificial Intelligence
