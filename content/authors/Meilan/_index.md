@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Meilan Jess is an undergraduate student in applied math with an area of emphasis in Quantum Engineering at the University of Colorado, Boulder.
 
 interests:
   - Mathematical Biology
@@ -55,11 +55,12 @@ social:
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/MeilanJess_2022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
