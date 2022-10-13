@@ -36,7 +36,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'zhenxing.liu@colorado.edu'
+    link: 'mailto:zhenxing.liu@colorado.edu'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
