@@ -18,7 +18,7 @@ design:
 
 <br>
 
- The **Combes theory group** studies fundamental and applied aspects of quantum theory.
+ The **Combes Theory Group** studies fundamental and applied aspects of quantum theory.
  
  
 Our fundamental research includes developing, quantum measurement theory, nonclassical aspects of the light matter interaction, and open quantum systems. The applied part of our research involves exploring quantum applications like sensing / metrology, and computing in collaboration with experimental groups.  
