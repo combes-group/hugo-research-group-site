@@ -21,7 +21,8 @@ organizations:
 bio: Zhenxing is a PhD student at the University of Colorado Boulder.
 
 interests:
-  - Protected Superconducting Qubits
+  - Superconducting Qubits
+  - Protected Qubits
 
 education:
   courses:
@@ -61,4 +62,4 @@ user_groups:
   - Grad Students
 ---
 
-Zhenxing is a PhD student at the University of Colorado Boulder. His research interests are mainly about next generation novel superconducting qubits that can either robust against various environmental noises or self correct the errors. Other interests include playing basketball, badminton, tennis, Legends of The Three Kingdoms, Catan...
+Zhenxing is a PhD student at the University of Colorado Boulder. His research is mainly about next generation novel superconducting qubits that can either robust against various environmental noises or self correct the errors. Other interests include playing basketball, badminton, tennis, Legends of The Three Kingdoms, Catan...
