@@ -19,6 +19,17 @@ design:
 
 asdf $\alpha = \int dx \,f(x)^2$
 
+## Bosonics codes
+
+## Novel Qubits
+
+
+## Quantum Measurement
+
+## Quantum Amplification
+
+## Open quantum systems
+
 
 # Older topics
 
