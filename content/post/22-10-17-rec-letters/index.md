@@ -1,5 +1,5 @@
 ---
-title: Recomendation letters
+title: Recomendation Letters
 date: 2022-10-17
 ---
 
