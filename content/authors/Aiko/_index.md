@@ -45,7 +45,7 @@ social:
     icon_pack: fas
     link: 'mailto:akira@akirakyle.com'
   - icon: browser
-    icon_pack: fas
+    icon_pack: far
     link: https://akirakyle.com/
   #- icon: google-scholar
   #  icon_pack: ai
