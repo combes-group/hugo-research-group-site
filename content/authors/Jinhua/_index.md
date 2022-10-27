@@ -18,17 +18,16 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Meilan Jess is an undergraduate student in applied math with an area of emphasis in Quantum Engineering at the University of Colorado, Boulder.
+bio: Jinhua is an undergraduate student in applied math and electrical engineering
 
 interests:
-  - Mathematical Biology
-  - Mathematical Chaos, systems   
-  - Quantum Sensing/Measurement 
+  - Quantum Computing
+  - Quantum Measurement
 
 
 education:
   courses:
-    - course: Undergraduate in Applied Math
+    - course: Undergraduate in Applied Math and Electrical Engineering
       institution: University of Colorado, Boulder
 #      year: 2012
 #    - course: MEng in Artificial Intelligence
@@ -45,22 +44,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:juje3884@colorado.edu'
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/meilan-jess-5abb631a0/
-  - icon: cv
-    icon_pack: ai
-    link: files/MeilanJess_2022.pdf
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'mailto:jizh1754@colorado.edu'
+  #- icon: linkedin
+  #  icon_pack: fab
+  #  link: https://www.linkedin.com/in/meilan-jess-5abb631a0/
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: files/MeilanJess_2022.pdf
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/GeorgeCushen
+  #- icon: google-scholar
+  #  icon_pack: ai
+  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  #- icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/gcushen
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen
@@ -80,6 +79,4 @@ user_groups:
   - Undergrad Students
 ---
 
-Meilan Jess is an undergraduate student in applied math with an area of emphasis in Quantum Engineering at the University of Colorado, Boulder. Her educational interests include abstract algebra and applied analysis. Their research interests are within the range of mathematical applications and modeling within quantum sensing. 
-
-Meilan is a part of the Engineering Honors Program at the University of Colorado, Boulder and has participated in a number of student organizations such as Engineers Without Borders (Chapter Secretary), oSTEM, and CHAMP (Colorado Homeless Assistance with Medicine Program). Aside from academics, she enjoys volunteering in humanitarian efforts such as vaccine clinics and spends her free time training BJJ and Muay Thai.
+Jinhua Zhang is an undergraduate student in applied math and electrical engineering
