@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Aiko Kyle
+title: Akira (Aiko) Kyle
 
 # Username (this should match the folder name)
 authors:
@@ -44,9 +44,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:akira@akirakyle.com'
- # - icon: twitter
-  #  icon_pack: fab
-  #  link: https://twitter.com/GeorgeCushen
+  - icon: browser
+    icon_pack: fas
+    link: https://akirakyle.com/
   #- icon: google-scholar
   #  icon_pack: ai
   #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
