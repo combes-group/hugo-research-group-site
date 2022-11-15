@@ -17,7 +17,7 @@ design:
   columns: '1'
 ---
 
-asdf $\alpha = \int dx \,f(x)^2$
+asdf $\alpha = \int dx \,f(x)^3$
 
 ## Bosonics codes
 
