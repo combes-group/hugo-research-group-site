@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-#bio: Saurabh is an undergraduate studying engineering physics and computer science.
+bio: Saurabh is an undergraduate studying engineering physics and computer science.
 
 #interests:
 #  - Quantum Information 
@@ -75,6 +75,6 @@ user_groups:
   - Undergrad Students
 ---
 
-Saurabh (he/him/his) is an undergraduate studying engineering physics and computer science. His hobbies include practicing musical instruments, learning languages, and going to the gym. He is passionate about science and technology and hopes to one day change the world.
+#Saurabh (he/him/his) is an undergraduate studying engineering physics and computer science. His hobbies include practicing musical instruments, learning languages, and going to the gym. He is passionate about science and technology and hopes to one day change the world.
 
-Website: www.saurabhtotey.com
+#Website: www.saurabhtotey.com
