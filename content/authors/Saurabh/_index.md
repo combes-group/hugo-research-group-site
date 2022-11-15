@@ -18,16 +18,15 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: asdf.
+bio: Saurabh is an undergraduate studying engineering physics and computer science.
 
 interests:
-  - asdf
-  - Quantum Sensing/Measurement 
+  - Quantum Information 
 
 
 education:
   courses:
-    - course: Undergraduate in Applied Math
+    - course: Undergraduate in Engineering Physics and Computer Science
       institution: University of Colorado, Boulder
 #      year: 2012
 #    - course: MEng in Artificial Intelligence
@@ -44,19 +43,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:juje3884@colorado.edu'
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/meilan-jess-5abb631a0/
+    link: 'mailto:sato5081@colorado.edu'
+  #- icon: linkedin
+  #  icon_pack: fab
+  #  link: https://www.linkedin.com/in/meilan-jess-5abb631a0/
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/SaurabhTotey
+  #- icon: google-scholar
+  #  icon_pack: ai
+  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/SaurabhTotey
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen
@@ -76,4 +75,4 @@ user_groups:
   - Undergrad Students
 ---
 
-asdf
+Saurabh (he/him/his) is an undergraduate studying engineering physics and computer science. His hobbies include practicing musical instruments, learning languages, and going to the gym. He is passionate about science and technology and hopes to one day change the world.
