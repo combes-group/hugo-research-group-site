@@ -18,19 +18,19 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Meilan Jess is an undergraduate student in applied math with an area of emphasis in Quantum Engineering at the University of Colorado, Boulder.
+bio: Mohit Bhat is an undergraduate senior in Electrical and Computer Engineering at the University of Colorado at Boulder.
 
 interests:
-  - Mathematical Biology
-  - Mathematical Chaos, systems   
-  - Quantum Sensing/Measurement 
+  - Quantum Circuit Theory
+  - Finding New Quantum Gates  
+  - Logic Design
 
 
 education:
   courses:
-    - course: Undergraduate in Applied Math
+    - course: B.Sc. in Electrical and Computer Engineering
       institution: University of Colorado, Boulder
-#      year: 2012
+      year: 2023 (ongoing)
 #    - course: MEng in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
 #      year: 2009
@@ -45,22 +45,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:juje3884@colorado.edu'
+    link: 'mailto:mobh5326@colorado.edu'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/meilan-jess-5abb631a0/
-  - icon: cv
-    icon_pack: ai
-    link: files/MeilanJess_2022.pdf
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.linkedin.com/in/mohitbhat-ece/
+#  - icon: cv
+#    icon_pack: ai
+#    link: files/MeilanJess_2022.pdf
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen
@@ -80,6 +80,4 @@ user_groups:
   - Undergrad Students
 ---
 
-Meilan Jess is an undergraduate student in applied math with an area of emphasis in Quantum Engineering at the University of Colorado, Boulder. Her educational interests include abstract algebra and applied analysis. Their research interests are within the range of mathematical applications and modeling within quantum sensing. 
-
-Meilan is a part of the Engineering Honors Program at the University of Colorado, Boulder and has participated in a number of student organizations such as Engineers Without Borders (Chapter Secretary), oSTEM, and CHAMP (Colorado Homeless Assistance with Medicine Program). Aside from academics, she enjoys volunteering in humanitarian efforts such as vaccine clinics and spends her free time training BJJ and Muay Thai.
+Mohit Bhat is an undergraduate senior in Electrical and Computer Engineering at the University of Colorado at Boulder. His relevant interests include quantum circuit theory, proposing new quantum gates, logic design, and RF electronics. His other interests are in philosophy, politics, mountains, reading, video games, and pretty much anything cool.
