@@ -53,8 +53,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/akirakyle/
-  - icon: browser
-    icon_pack: far
+  - icon: arrow-pointer
+    icon_pack: fas
     link: https://akirakyle.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -73,7 +73,7 @@ user_groups:
 
 Aiko Kyle is a graduate student in physics at the University of Colorado Boulder. His research interests focus on quantum transduction and networking which includes topics such as optomechanics and quantum channels. The rest of the time he can be found either rock climbing or configuring emacs.
 
-Website: https://akirakyle.com/
+Website: https://akirakyle.com/ .
 
 
 
