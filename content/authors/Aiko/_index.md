@@ -44,8 +44,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:akira@akirakyle.com'
-  - icon: arxiv
-    icon_pack: fab
+  - icon: xmark
+    icon_pack: fas
     link: https://arxiv.org/a/kyle_a_1.html
   - icon: google-scholar
     icon_pack: ai
