@@ -20,8 +20,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Saurabh is an undergraduate studying engineering physics and computer science.
 
-#interests:
-#  - Quantum Information 
+interests:
+  - Quantum Information 
 
 
 education:
@@ -56,13 +56,15 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/SaurabhTotey
-  - icon: cv
-    icon_pack: ai
-    link: files/MeilanJess_2022.pdf
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen
-#   link: files/SaurabhResume.pdf
+
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+ - icon: cv
+   icon_pack: ai
+   link: files/Saurabh Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
