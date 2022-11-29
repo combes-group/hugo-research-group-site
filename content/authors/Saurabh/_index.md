@@ -56,6 +56,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/SaurabhTotey
+  - icon: arrow-pointer
+    icon_pack: fas
+    link: www.saurabhtotey.com
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen
@@ -79,5 +82,3 @@ user_groups:
 ---
 
 Saurabh (he/him/his) is an undergraduate studying engineering physics and computer science. His hobbies include practicing musical instruments, learning languages, and going to the gym. He is passionate about science and technology and hopes to one day change the world.
-
-Website: www.saurabhtotey.com
