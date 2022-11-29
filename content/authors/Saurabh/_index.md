@@ -58,7 +58,7 @@ social:
     link: https://github.com/SaurabhTotey
   - icon: arrow-pointer
     icon_pack: fas
-    link: www.saurabhtotey.com
+    link: https://www.saurabhtotey.com/
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen
