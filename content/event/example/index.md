@@ -14,9 +14,7 @@ event_url: https://sites.google.com/view/byron-bay-quantum-workshop/home?authuse
 
 summary: Bolder Boulder Quantum Workshop
 abstract: 2023 Focus: Bosonic Error-Correction & Novel Qubits.  
-This year we're excited to bring together world experts on novel qubits and bosonic error-correcting codes.
-
-Since the last BBQ Workshop, we've seen exciting advances in the field of continuous-variable quantum computation and bosonic error correcting codes, both theoretically and experimentally. Similarly, novel ways to encode, manipulate, and correct logical qubits have seen increasing theoretical and experimental attention. 
+This year we're excited to bring together world experts on novel qubits and bosonic error-correcting codes. Since the last BBQ Workshop, we've seen exciting advances in the field of continuous-variable quantum computation and bosonic error correcting codes, both theoretically and experimentally. Similarly, novel ways to encode, manipulate, and correct logical qubits have seen increasing theoretical and experimental attention. 
 
 
 
