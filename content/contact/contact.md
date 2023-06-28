@@ -28,7 +28,7 @@ content:
     latitude: '40.0068'
     longitude: '-105.2628'
   office: ECOT 357
-  directions: Enter the building, turn left and take the evelvator to the third floor/
+  directions: Enter the building, turn left and take the evelvator to the third floor
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
