@@ -52,6 +52,6 @@ content:
 design:
   columns: '1'
 ---
-Directions to my office. My office is ECOT 357. Enter the building, turn left and take the elevator to the third floor.
+**Directions to my office.** My office is ECOT 357. Enter the building, turn left and take the elevator to the third floor.
 
-Generally, I'd prefer to communicate in person or over the phone. Email is the worst.
+**Communication.** Generally, I'd prefer to communicate in person or over the phone. Email is the worst.
