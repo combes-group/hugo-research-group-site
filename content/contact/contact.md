@@ -27,8 +27,6 @@ content:
   coordinates:
     latitude: '40.0068'
     longitude: '-105.2628'
-  office: 'ECOT 357'
-  directions: Enter the building, turn left and take the elevator to the third floor
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
@@ -54,5 +52,6 @@ content:
 design:
   columns: '1'
 ---
+Directions to my office. My office is ECOT 357. Enter the building, turn left and take the elevator to the third floor.
 
-
+Generally, I'd prefer to communicate in person or over the phone. Email is the worst.
