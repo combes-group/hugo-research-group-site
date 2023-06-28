@@ -27,7 +27,7 @@ content:
   coordinates:
     latitude: '40.0068'
     longitude: '-105.2628'
-  office: ECOT 357
+  office: 'ECOT 357'
   directions: Enter the building, turn left and take the elevator to the third floor
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
