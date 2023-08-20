@@ -26,8 +26,8 @@ interests:
 
 education:
   courses:
-    - course: Bachelor of Science in Physics and Computer Science
-      institution: Carnegie Mellon Univeristy
+    - course: Bachelor of Science in Computer Science
+      institution: Louisiana State Univeristy
       year: 2014-2018
 #    - course: MEng in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
