@@ -43,8 +43,8 @@ You might feel uncomfortable but I can promise you there are other people doing 
 **Leave teasers for your paper**. "If you are interested in X and Y, we solve that in arXiv:asdf"
 
 ## Technical stuff
-- if you are speaking quickly to say everything you want to say you have failed.
--APS is recommending 16:9 aspect ratio for slides these days.
+
+- APS is recommending 16:9 aspect ratio for slides these days.
 - Make a margin around your slide and don't put anything there... it often gets cut off.
-- large fonts.
+- Large fonts.
 
