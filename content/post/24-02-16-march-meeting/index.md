@@ -31,7 +31,7 @@ The biggest mistake is too much information:
 - verbally (the speaker is trying to talk at a fast pace) 
 
 
-**Aim to be memorable** (Funny, Shocking, Quirky). One of my students gave a hilarious talk that used an analogy between "The Bachelor" and the search for the best superconducting qubit. I saw had only one equation for the whole talk, so when we got to that equation it was very memorable. If you have a joke please practice it in the context of a talk on several people to see if it will work.
+**Aim to be memorable** (Funny, Shocking, Quirky). One of my students gave a hilarious talk that used an analogy between "The Bachelor" and the search for the best superconducting qubit. A few years back, I saw a talk where the speaker used just one equation in the whole talk. So, when we hit that equation, it really stuck with me. Also, if you have a joke please practice it in the context of a talk on several people to see if it will work.
 
 **Don't get bogged down in technical details**. Explain things at a very high level, in 10 min detail is useless if not impossible. Give a flavor of what is difficult, no one will remember a proof or 400 plots in different parameter regimes.
 
