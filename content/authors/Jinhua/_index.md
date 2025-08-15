@@ -12,6 +12,9 @@ superuser: false
 # Role/position
 role: Undegraduate Research Asisstant
 
+user_groups: 
+  - Alumni
+
 # Organizations/Affiliations
 organizations:
   - name: University of Colorado Boulder
@@ -22,7 +25,7 @@ bio: Jinhua is an undergraduate student in applied math and electrical engineeri
 
 interests:
   - Quantum Computing
-  - Quantum Measurement
+
 
 
 education:
