@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Zhenxing is a PhD student at the University of Colorado Boulder.
+bio: Zhenxing obtained his PhD from University of Colorado Boulder in 2025.
 
 interests:
   - Superconducting Qubits
@@ -29,6 +29,9 @@ education:
     - course: B.Eng. in Electronic Science and Engineering
       institution: Hunan University
       year: 2014-2018
+    - course: P.h.D in Materials Science Engineering
+      institution: University of Colorado Boulder
+      year: 2019-2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -62,4 +65,4 @@ user_groups:
   - Grad Students
 ---
 
-Zhenxing is a PhD student at the University of Colorado Boulder. His research is mainly about next generation novel superconducting qubits that can either robust against various environmental noises or self correct the errors. Other interests include playing basketball, badminton, tennis, Legends of The Three Kingdoms, Catan...
+Zhenxing obtained his PhD from University of Colorado Boulder in 2025. His research is mainly about next generation novel superconducting qubits that can either robust against various environmental noises or self correct the errors. Other interests include playing basketball, badminton, tennis, Legends of The Three Kingdoms, Catan...

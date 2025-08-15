@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undegraduate Research Asisstant
+role: Undergraduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -77,8 +77,8 @@ email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Undergrad Students
+user_groups: 
+  - Alumni
 ---
 
-Saurabh (he/him/his) is an undergraduate studying engineering physics and computer science. His hobbies include practicing musical instruments, learning languages, and going to the gym. He is passionate about science and technology and hopes to one day change the world.
+Saurabh (he/him/his) studied engineering physics and computer science at CU. His hobbies include practicing musical instruments, learning languages, and going to the gym. He is passionate about science and technology and hopes to one day change the world.

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undegraduate Research Asisstant
+role: Undergraduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -68,7 +68,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrad Students
+  - Alumni
 ---
 
 Meilan Jess is an undergraduate student in applied math with an area of emphasis in Quantum Engineering at the University of Colorado, Boulder. Her educational interests include abstract algebra and applied analysis. Their research interests are within the range of mathematical applications and modeling within quantum sensing. 

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undegraduate Research Asisstant
+role: Undergraduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -77,7 +77,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrad Students
+  - Alumni
 ---
 
 Mohit Bhat is an undergraduate senior in Electrical and Computer Engineering at the University of Colorado at Boulder. His relevant interests include quantum circuit theory, proposing new quantum gates, logic design, and RF electronics. His other interests are in philosophy, politics, mountains, reading, video games, and pretty much anything cool.

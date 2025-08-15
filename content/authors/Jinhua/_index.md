@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undegraduate Research Asisstant
+role: Undergraduate Research Assistant
 
 
 # Organizations/Affiliations
@@ -19,7 +19,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jinhua is an undergraduate student in applied math and electrical engineering
+bio: Jinhua was undergraduate student in applied math and electrical engineering
 
 interests:
   - Quantum Computing
@@ -84,4 +84,4 @@ user_groups:
   - Alumni
 ---
 
-Jinhua Zhang is an undergraduate student in applied math and electrical engineering
+Jinhua Zhang was an undergraduate student in applied math and electrical engineering.
