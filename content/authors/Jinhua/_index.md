@@ -12,8 +12,6 @@ superuser: false
 # Role/position
 role: Undegraduate Research Asisstant
 
-user_groups: 
-  - Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -81,8 +79,9 @@ email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Undergrad Students
+
+user_groups: 
+  - Alumni
 ---
 
 Jinhua Zhang is an undergraduate student in applied math and electrical engineering
